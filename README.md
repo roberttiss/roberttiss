@@ -1,10 +1,10 @@
 ### Olá! Eu sou Gabriel
 
-[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true | width=140)](https://github.com/roberttiss)
+<div style="display: flex; justify-content: space-between;">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&langs_count=7&theme=dracula | width=140)](https://github.com/roberttiss)
-
-#### Linguagens de Programação
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="140" height="140" alt="C">
