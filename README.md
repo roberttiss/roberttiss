@@ -8,5 +8,6 @@ My name is Gabriel
 </div>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="50" alt="C">
+
 </div>          
