@@ -5,7 +5,7 @@
   <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<hr>
+<hr style="border-top: 1px solid #ccc; margin: 20px 0;">
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="50" height="50" alt="C">
