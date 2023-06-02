@@ -1,8 +1,8 @@
 ### Olá! Eu sou Gabriel
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
