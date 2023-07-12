@@ -6,9 +6,9 @@
 
 <hr>
 
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="400"  height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&theme=midnight-purple" alt="Top Languages" width="400" height="160"/>
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="auto"  height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&theme=midnight-purple" alt="Top Languages" width="auto" height="160"/>
 </div>
 
 <hr>
