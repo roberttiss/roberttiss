@@ -6,10 +6,8 @@
 
 <hr>
 
-<div style="display: flex; justify-content: space-between;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Gabriel Roberts](https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact)
-</div>
 
 <hr>
 
