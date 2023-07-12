@@ -7,7 +7,7 @@
 <hr>
 
   ![Gabriel Roberts](https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=donut&theme=midnight-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&hide_progress=true&theme=midnight-purple)
 
 <hr>
 
