@@ -7,8 +7,8 @@
 <hr>
 
   <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="auto"  height="167"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&theme=midnight-purple" alt="Top Languages" width="auto" height="167"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="auto"  height="168"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=compact&theme=midnight-purple" alt="Top Languages" width="auto" height="168"/>
 </div>
 
 <hr>
