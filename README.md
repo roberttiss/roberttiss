@@ -6,8 +6,10 @@
 
 <hr>
 
+<div style="display: flex; justify-content: space-between;">
   ![Gabriel Roberts](https://github-readme-stats.vercel.app/api?username=roberttiss&show_icons=true&theme=midnight-purple)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberttiss&layout=donut&theme=midnight-purple)](https://github.com/roberttiss/github-readme-stats)
+</div>
 
 <hr>
 
